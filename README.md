@@ -14,7 +14,7 @@ I'm Data Science Aspirant...
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danypetkar&show_icons=true&locale=en" alt="PranaySadawarti" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PranaySadawarti&show_icons=true&locale=en" alt="PranaySadawarti" /></p>
 
 # Hi, I'm Pranay! 👋
 
