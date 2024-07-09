@@ -1,9 +1,28 @@
-## Hi there 👋
 
-<!--
-**PranaySadawarti/PranaySadawarti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Project Title
 
-Here are some ideas to get you started:
+A brief description of what this project does and who it's for
+
+
+## 🚀 About Me
+I'm Data Science Aspirant...
+
+
+## Other Common Github Profile Sections
+
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranay-sadawarti-b99ab928b/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
+
+# Hi, I'm Pranay! 👋
+
+
+## 🛠 Skills
+Machine Learning, Deep Learning, Python, Seaborn, Matplotlib
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
